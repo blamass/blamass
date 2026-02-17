@@ -5,7 +5,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
-<picture> <img align="right" src="https://u.cubeupload.com/victorferraresi/dino.gif" width = 400px></picture>
+<picture> <img align="right" src="https://u.cubeupload.com/victorferraresi/dino.gif" width = 350px></picture>
 
 <br>
 
